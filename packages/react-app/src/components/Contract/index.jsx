@@ -93,7 +93,6 @@ export default function Contract({
             functionInfo={contractFuncInfo[1]}
             refreshRequired={refreshRequired}
             triggerRefresh={triggerRefresh}
-            blockExplorer={blockExplorer}
           />
         );
       }
